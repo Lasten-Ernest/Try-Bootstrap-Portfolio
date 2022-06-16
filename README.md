@@ -1,72 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name : ERNEST PORTFOLIO WEBSITE
 
 > Description the project.
+# This is a trial version of portfolio using bootstrap as CSS framework.
+It contains information about his projects, skills, experience and includes contact details. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML AND CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- BOOTSTRAP
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## In order to have a copy of this project in your computer follow these steps:
+** Open your favourite git client
+** clone this project into your computer using this link https://github.com/Lasten-Ernest/Lasten-Ernest-Portfolio-Website.git 
+** open it with your prefered browser.
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+## In order to access this website on line:
+** click on the link below or copy it and paste it into your recommended browser's address bar.
+    https://lasten-ernest.github.io/
+    
 
 
+## Author1
 
-## Authors
+👤 **Ernest Lasten**
 
-👤 **Author1**
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@ErnestLasten](https://twitter.com/ErnestLasten)
+- LinkedIn: [ernestlasten](https://mw.linkedin.com/in/ernest-lasten-613990197)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author2
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
