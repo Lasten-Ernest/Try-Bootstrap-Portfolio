@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: gray;
+  background: rgb(240, 191, 30);
 }
 
 .h1,
@@ -24,7 +24,7 @@ body {
 .lead {
   max-width: 40%;
   margin: 0 auto;
-  color: #130fec;
+  color: #000000;
 }
 
 .hr {
@@ -51,11 +51,15 @@ body {
 }
 
 .img {
-  gap: 15px;
+  gap: 16px;
 }
 
 .img-fluid {
-  height: 18rem;
+  height: 16rem;
+}
+
+.card-body {
+  height: 16rem;
 }
 
 .cards {
